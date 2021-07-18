@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AEPortfolio", "AEPortfolio\AEPortfolio.csproj", "{E0806508-4807-4F6B-BEA6-FBAABC0C9E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0806508-4807-4F6B-BEA6-FBAABC0C9E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0806508-4807-4F6B-BEA6-FBAABC0C9E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0806508-4807-4F6B-BEA6-FBAABC0C9E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0806508-4807-4F6B-BEA6-FBAABC0C9E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11E03C0D-0EF5-4373-8428-3AB8376AB5DA}
+	EndGlobalSection
+EndGlobal
